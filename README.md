@@ -1,3 +1,26 @@
+## vrpn_client_ros (kinetic) - 0.2.0-0
+
+The packages in the `vrpn_client_ros` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic vrpn_client_ros --edit` on `Wed, 15 Nov 2017 16:39:03 -0000`
+
+The `vrpn_client_ros` package was released.
+
+Version of package(s) in repository `vrpn_client_ros`:
+
+- upstream repository: https://github.com/clearpathrobotics/vrpn_client_ros.git
+- release repository: https://github.com/ros-drivers-gbp/vrpn_client_ros-release.git
+- rosdistro version: `0.1.1-0`
+- old version: `0.1.1-0`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## vrpn_client_ros (kinetic) - 0.1.1-0
 
 The packages in the `vrpn_client_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic vrpn_client_ros` on `Thu, 27 Oct 2016 15:00:09 -0000`
